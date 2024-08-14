@@ -2,7 +2,9 @@ import React from 'react'
 import './index.scss'
 const App: React.FC = () => {
   return (
-    <div>App</div>
+    <div>
+      <h1>this is react project</h1>
+    </div>
   )
 }
 
