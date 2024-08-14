@@ -1,0 +1,9 @@
+@import '../../styles/variable';
+@import '../../styles/mixins';
+
+.header{
+    @include flex-center;
+    background-color: $primary-color;
+    height: 60px;
+    color: white;
+}
